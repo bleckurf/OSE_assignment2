@@ -1,0 +1,4 @@
+# Requirements #
+
+- The notebook requires the datafile 'AR6_Scenarios_Database_World_v1.0.csv'
+  (not included in the repository due to copyright)
