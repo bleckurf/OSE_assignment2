@@ -1,4 +1,4 @@
 # Requirements #
 
-- The notebook requires the datafile 'AR6_Scenarios_Database_World_v1.0.csv'
+- The notebook requires the datafile 'AR6_Scenarios_Database_World_v1.0.csv' which can be accessed at https://data.ece.iiasa.ac.at/ar6/.
   (not included in the repository due to copyright)
