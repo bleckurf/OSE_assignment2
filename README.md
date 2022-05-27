@@ -22,3 +22,6 @@ limitations under the License.
 Second assignment in Open source energy system modeling.
 
 The repository consists of:
+
+- OSE_assignment2.ipynb : jupyter notebook with code and analysis of energy data from AR6.
+- requirements.txt : text file describing requirements to run the notebook
